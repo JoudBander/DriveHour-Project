@@ -16,7 +16,7 @@ The design targets three types of users: **customers** renting cars, **employees
 
 ## Design process
 
-The prototype is based on user research from an earlier project phase — interviews and questionnaires that pointed to a real demand for flexible, short-term rental in Saudi Arabia (existing services like Yelo cover daily rentals well but don't support hourly use). That research shaped the three-interface structure and the priority on minimal steps per task.
+The prototype is based on user research from an earlier project phase — interviews and questionnaires that pointed to a real demand for flexible, short-term rental in Saudi Arabia. That research shaped the three-interface structure and the priority on minimal steps per task.
 
 22 screens total, split across:
 
