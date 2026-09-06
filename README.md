@@ -6,7 +6,7 @@ A high-fidelity Figma prototype for an on-demand, hourly car rental app.
 
 Built as a 5-person team project for a university Human-Computer Interaction course (CS351). I contributed across the whole project, working alongside four teammates.
 
-**[View the interactive prototype →](https://www.figma.com/proto/lkfQyWQSHPId8Yt8A9t19T/HCI-Project---Phase-2?page-id=0%3A1&node-id=1-2&starting-point-node-id=92%3A95)**
+**[View the interactive Customer prototype →](https://www.figma.com/proto/lkfQyWQSHPId8Yt8A9t19T/HCI-Project---Phase-2?page-id=0%3A1&node-id=1-2&starting-point-node-id=92%3A95)**
 
 ## Overview
 
